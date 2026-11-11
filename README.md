@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Samama Aziz 👋
 
-<!--
-**Samama-Aziz/Samama-Aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software developer | Web applications | Open to remote opportunities**
 
-Here are some ideas to get you started:
+I enjoy building useful software, solving problems, and learning through hands-on projects. My interests include web development, backend development, and exploring AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- **Languages:** TypeScript, JavaScript, Python, HTML, CSS
+- **Web:** React, Vue.js
+- **Tools:** Git & GitHub
+
+## 🌱 What I value
+
+- Writing clear, maintainable code
+- Learning new technologies and improving through feedback
+- Working with others to turn ideas into useful products
+
+## 🤝 Let’s connect
+
+I’m open to remote software development opportunities and collaboration. Feel free to connect with me here on GitHub.
