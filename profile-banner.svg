@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Samama Aziz — Software Developer</title>
+  <desc id="desc">A dark navy banner with teal and violet accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1022"/><stop offset="1" stop-color="#142343"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3ee5cf"/><stop offset="1" stop-color="#8b8bff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <circle cx="1035" cy="150" r="180" fill="none" stroke="#62d8dd" stroke-opacity=".09" stroke-width="2"/>
+  <circle cx="1035" cy="150" r="130" fill="none" stroke="#a5a2ff" stroke-opacity=".14" stroke-width="2"/>
+  <circle cx="1035" cy="150" r="80" fill="none" stroke="#62d8dd" stroke-opacity=".2" stroke-width="2"/>
+  <path d="M900 200l38-38-38-38m68 77l40-78m29 1l38 38-38 38" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <rect x="64" y="61" width="42" height="5" rx="2.5" fill="#42dfcf"/>
+  <text x="64" y="108" fill="#8de8dd" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4">SOFTWARE DEVELOPER</text>
+  <text x="60" y="175" fill="#f4f8ff" font-family="Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="1">Samama Aziz</text>
+  <text x="64" y="220" fill="#b8c6de" font-family="Arial, sans-serif" font-size="21">Building useful digital experiences.</text>
+  <circle cx="67" cy="259" r="4" fill="#49e1cb"/><text x="82" y="265" fill="#c5d3e8" font-family="Arial, sans-serif" font-size="15" letter-spacing="1">OPEN TO REMOTE OPPORTUNITIES</text>
+</svg>
